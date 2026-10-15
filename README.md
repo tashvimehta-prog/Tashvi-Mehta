@@ -1,1 +1,1 @@
-# Tashvi-Mehta
+A Python tool for biomedical signal processing that analyzes ECG recordings to extract heart rate and heart rate variability (HRV). It filters noise and baseline drift, detects R-peaks, and computes clinically relevant metrics (mean HR, SDNN, RMSSD, pNN50). It works on your own CSV data or on a built-in synthetic ECG generator, so it runs with no dataset.
